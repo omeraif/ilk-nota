@@ -1,5 +1,15 @@
 # BUILD_NOTES — İlk Nota
 
+## v3 — 10 kategori × 50 şarkı + canlı yayın (2026-08-31)
+
+- **Katalog**: 10 kategori (Rap, Pop, Rock, Arabesk, 90'lar, 2000'ler, Türkü, Sanat Müziği, Slow, İndie) × tam 50 şarkı = **500 doğrulanmış kayıt**. 10 paralel ajanlık workflow her videoId'yi oEmbed ile doğruladı (557 aday → dedupe → 500); ben ayrıca 27 rastgele örneği bağımsız doğruladım (27/27). Kaynak: `.catalogue/*.json`, üretici: `scripts/generate-tracks.mjs` → `src/data/tracks.ts`.
+- **Kategori sistemi**: yatay çip barı; her kategorinin kendi günlük şarkısı (tarih+kategori tuzlu hash), kendi sınırsız destesi ve kendi istatistikleri (`daily:<tarih>:<kategori>`, `free:session:<kategori>`, `stats:<kategori>`). Arama aktif kategoriyle sınırlı.
+- **UI**: Bricolage Grotesque + Hanken Grotesk (overused-font bulgusuna istinaden), OG/Twitter kart meta'ları + matplotlib ile üretilmiş `public/og.png` link önizlemesi, paylaşım metnine site linki eklendi.
+- **Yayın**: GitHub Pages — https://omeraif.github.io/ilk-nota/ (repo: github.com/omeraif/ilk-nota, `scripts/deploy.sh` dist'i `gh-pages` dalına iter; SPA için 404.html kopyası). Vite `base: /ilk-nota/` yalnızca build'de.
+- **Test**: typecheck + build temiz; tarayıcıda 10 çipin görünürlüğü, kategori geçişi, kategoriye özel arama (Arabesk'te "müslüm" 4 sonuç, "ceza" 0 sonuç), Türkü'de pas → satır + 0,5s ilerleme, oynatıcı hatasız; mobil ekran görüntüsü incelendi.
+- Not: `startSeconds` yeni 485 kayıtta varsayılan 30 sn (şarkının tanınabilir kısmına denk gelecek güvenli nokta); çekirdek 15 rap parçasının elle ayarlı değerleri korunuyor.
+
+
 ## What was built
 
 A faithful Turkish rap adaptation of Songless's complete game loop, as a Vite + React 18 + TypeScript (strict) + Tailwind v4 SPA at **`~/ilk-nota`** (route: `/`, single page).

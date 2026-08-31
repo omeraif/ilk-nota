@@ -1,0 +1,71 @@
+[
+  {"title":"Bir Aşk Hikayesi","artist":"Kayahan","featuring":[],"aliases":[],"year":1994,"videoId":"NCKvjIJP0lE","channel":"Kayahan"},
+  {"title":"Artık Ağlamam Lazım","artist":"Kayahan","featuring":[],"aliases":[],"year":1987,"videoId":"57ke-0wG5Ug","channel":"Kayahan"},
+  {"title":"İlk Değil","artist":"Kayahan","featuring":[],"aliases":[],"year":1996,"videoId":"7lM3eNwaNkY","channel":"Kayahan"},
+  {"title":"Devamı Var","artist":"Kayahan","featuring":[],"aliases":[],"year":1998,"videoId":"Nxhomhd5Btc","channel":"Kayahan"},
+
+  {"title":"Boşver","artist":"Nilüfer","featuring":[],"aliases":[],"year":1988,"videoId":"tMxpy33QcR8","channel":"netd müzik"},
+  {"title":"Esmer Günler","artist":"Nilüfer","featuring":[],"aliases":[],"year":1988,"videoId":"mSi2CSR2F2A","channel":"Nilüfer"},
+  {"title":"Sen Affetsen Ben Affetmem","artist":"Nilüfer","featuring":[],"aliases":[],"year":1990,"videoId":"K_K3DpP8AUw","channel":"Nilüfer"},
+  {"title":"Büyük Aşkım","artist":"Nilüfer","featuring":[],"aliases":[],"year":1994,"videoId":"C6ks29E4QAI","channel":"Avrupa Müzik"},
+
+  {"title":"Acı Ninni","artist":"Ahmet Kaya","featuring":[],"aliases":[],"year":1988,"videoId":"WA7693eIdTA","channel":"Ahmet Kaya"},
+  {"title":"Şafak Türküsü","artist":"Ahmet Kaya","featuring":[],"aliases":[],"year":1994,"videoId":"E4x8-eRbEvo","channel":"Ahmet Kaya"},
+  {"title":"Ağlama Bebeğim","artist":"Ahmet Kaya","featuring":[],"aliases":[],"year":1985,"videoId":"50fhdR_ugS0","channel":"Ahmet Kaya"},
+  {"title":"Biz Üç Kişiydik","artist":"Ahmet Kaya","featuring":[],"aliases":[],"year":1992,"videoId":"AZ692D2gMjA","channel":"Ahmet Kaya"},
+
+  {"title":"Git","artist":"Sezen Aksu","featuring":[],"aliases":["Gitme"],"year":1991,"videoId":"rzhvo0PF74k","channel":"Sezen Aksu"},
+  {"title":"Kaybolan Yıllar","artist":"Sezen Aksu","featuring":[],"aliases":[],"year":1984,"videoId":"H7mxXm0Avts","channel":"Sezen Aksu"},
+  {"title":"Firuze","artist":"Sezen Aksu","featuring":[],"aliases":[],"year":1984,"videoId":"EO4r_SV6bbA","channel":"Sezen Aksu"},
+  {"title":"Vazgeçtim","artist":"Sezen Aksu","featuring":[],"aliases":[],"year":1997,"videoId":"83PXWOoucDU","channel":"Sezen Aksu"},
+
+  {"title":"Nazım Türküsü","artist":"Zülfü Livaneli","featuring":[],"aliases":[],"year":1980,"videoId":"fSSyxWBbVSA","channel":"Seyhan Müzik"},
+  {"title":"Yalnız İnsan","artist":"Zülfü Livaneli","featuring":[],"aliases":[],"year":1983,"videoId":"bi2-BoPVDpQ","channel":"Seyhan Müzik"},
+  {"title":"Gözlerin","artist":"Zülfü Livaneli","featuring":[],"aliases":[],"year":1975,"videoId":"KeBySFpGcLk","channel":"Zülfü Livaneli - Topic"},
+  {"title":"Leylim Ley","artist":"Zülfü Livaneli","featuring":[],"aliases":[],"year":1979,"videoId":"s0skIcl2PFQ","channel":"Zülfü Livaneli - Topic"},
+
+  {"title":"Ele Güne Karşı","artist":"MFÖ","featuring":[],"aliases":[],"year":1985,"videoId":"4DZbURvoDEc","channel":"OSSİ MÜZİK"},
+  {"title":"Gözyaşlarımızı Bitti Mi Sandın","artist":"MFÖ","featuring":[],"aliases":[],"year":1987,"videoId":"_8EWKs4KP9k","channel":"OSSİ MÜZİK"},
+  {"title":"Bazen","artist":"MFÖ","featuring":[],"aliases":[],"year":1990,"videoId":"D63ROx0Pij8","channel":"OSSİ MÜZİK"},
+  {"title":"Buselik Makamına","artist":"MFÖ","featuring":[],"aliases":[],"year":1988,"videoId":"bXdlVwZyJIg","channel":"Poll Production"},
+
+  {"title":"Ben Sana Vurgunum","artist":"Nükhet Duru","featuring":[],"aliases":[],"year":1978,"videoId":"E0lI5169AYM","channel":"Nükhet Duru"},
+  {"title":"Sevmek Zor","artist":"Nükhet Duru","featuring":[],"aliases":[],"year":2000,"videoId":"b1aeaOHRzGs","channel":"Esen Müzik"},
+  {"title":"Yaşamak","artist":"Nükhet Duru","featuring":[],"aliases":[],"year":1985,"videoId":"JzX-xMCTfFY","channel":"Nükhet Duru - Topic"},
+  {"title":"Sessiz Gemi","artist":"Nükhet Duru","featuring":[],"aliases":[],"year":1990,"videoId":"vHmGGbqcPAU","channel":"Avrupa Müzik"},
+
+  {"title":"Aşk Yeniden","artist":"Yeni Türkü","featuring":[],"aliases":[],"year":1990,"videoId":"_NdZIknMk1w","channel":"DMC"},
+  {"title":"Fırtına","artist":"Yeni Türkü","featuring":[],"aliases":[],"year":1988,"videoId":"yQNOCwhh5Z4","channel":"netd müzik"},
+  {"title":"Nerelere Gideyim?","artist":"Yeni Türkü","featuring":[],"aliases":[],"year":1992,"videoId":"6oF2YYR3k18","channel":"Yeni Türkü - Topic"},
+  {"title":"Rüzgar","artist":"Yeni Türkü","featuring":[],"aliases":[],"year":1987,"videoId":"tYFe_f-0irI","channel":"Yeni Türkü - Topic"},
+
+  {"title":"Benimle Oynar mısın","artist":"Bülent Ortaçgil","featuring":[],"aliases":[],"year":1976,"videoId":"D8k68E7mh00","channel":"Ada Müzik"},
+  {"title":"Göründüğü Gibi","artist":"Bülent Ortaçgil","featuring":[],"aliases":[],"year":1979,"videoId":"COMxG3GrySo","channel":"Ada Müzik"},
+  {"title":"Bir Tek Sen Yalanı","artist":"Bülent Ortaçgil","featuring":[],"aliases":[],"year":1994,"videoId":"yDIPfWHvnak","channel":"Ada Müzik"},
+  {"title":"Kimseye Anlatmadım","artist":"Bülent Ortaçgil","featuring":["Birsen Tezer"],"aliases":[],"year":2005,"videoId":"4lkdLUsuXYc","channel":"Ada Müzik"},
+
+  {"title":"Aşk","artist":"Sertab Erener","featuring":[],"aliases":[],"year":2003,"videoId":"yCOFaNlFcIQ","channel":"Sertab Erener"},
+  {"title":"Açık Adres","artist":"Sertab Erener","featuring":[],"aliases":[],"year":1997,"videoId":"cQQnit1ppGQ","channel":"Sertab Erener"},
+  {"title":"Rüya","artist":"Sertab Erener","featuring":[],"aliases":[],"year":1994,"videoId":"vmReu3Kh6aw","channel":"Sertab Erener - Topic"},
+  {"title":"Aldırma Deli Gönlüm","artist":"Sertab Erener","featuring":[],"aliases":[],"year":1998,"videoId":"Miq52-1A_zw","channel":"Sertab Erener"},
+
+  {"title":"Bugün","artist":"Şebnem Ferah","featuring":[],"aliases":["Artık Kısa Cümleler Kuruyorum"],"year":1998,"videoId":"WJ4MNKotScw","channel":"Pasaj Müzik"},
+  {"title":"Deli Kızım Uyan","artist":"Şebnem Ferah","featuring":[],"aliases":[],"year":2000,"videoId":"1uGfTVzO1ZA","channel":"Şebnem Ferah - Topic"},
+  {"title":"Bir Kalp Kırıldığında","artist":"Şebnem Ferah","featuring":[],"aliases":[],"year":2005,"videoId":"xAWhNTpcSJ4","channel":"Şebnem Ferah - Topic"},
+  {"title":"Ateşe Yakın","artist":"Şebnem Ferah","featuring":[],"aliases":[],"year":1998,"videoId":"baNQBojie6A","channel":"Şebnem Ferah - Topic"},
+
+  {"title":"Hadi O Zaman","artist":"Nazan Öncel","featuring":["Tarkan"],"aliases":[],"year":2001,"videoId":"nhHfY1DHBPk","channel":"Nazan Öncel"},
+  {"title":"Beyoğlu","artist":"Nazan Öncel","featuring":[],"aliases":[],"year":1997,"videoId":"HPk133N6340","channel":"Nazan Öncel"},
+  {"title":"Hay Hay","artist":"Nazan Öncel","featuring":["Tarkan"],"aliases":[],"year":2003,"videoId":"bql4EREyGfo","channel":"Nazan Öncel"},
+  {"title":"Çocuk Kalbim","artist":"Nazan Öncel","featuring":[],"aliases":[],"year":1999,"videoId":"w9qkQlzCbRI","channel":"Nazan Öncel"},
+
+  {"title":"Bir Harmanım Bu Akşam","artist":"Fikret Kızılok","featuring":[],"aliases":["Yana Yana"],"year":1993,"videoId":"cKOyY-I2y0s","channel":"Kalan Müzik"},
+  {"title":"Başbaşa","artist":"Fikret Kızılok","featuring":[],"aliases":["Yadigar"],"year":1995,"videoId":"bYB9lLYEAdY","channel":"Kalan Müzik"},
+  {"title":"Akın Var Akın","artist":"Fikret Kızılok","featuring":[],"aliases":["Gün Ola Devran Döne"],"year":1999,"videoId":"eZI9HfgOsFM","channel":"Kalan Müzik"},
+  {"title":"Zaman Zaman","artist":"Fikret Kızılok","featuring":[],"aliases":[],"year":1978,"videoId":"pwP2minca1Y","channel":"TRT Arşiv"},
+
+  {"title":"Burda Kalayım","artist":"Göksel","featuring":[],"aliases":[],"year":2005,"videoId":"VYE-BHkztzo","channel":"Göksel"},
+  {"title":"Aşkın Yalanmış","artist":"Göksel","featuring":[],"aliases":[],"year":2013,"videoId":"NvRkYhwczsk","channel":"Göksel"},
+  {"title":"Bin Parça","artist":"Göksel","featuring":[],"aliases":[],"year":2015,"videoId":"_TJiQjymmFs","channel":"MuzikPlay"},
+  {"title":"Benden Geçti Aşk","artist":"Göksel","featuring":[],"aliases":[],"year":2008,"videoId":"-2r0v7-jusg","channel":"Göksel - Topic"}
+]
