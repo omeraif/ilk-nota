@@ -1,0 +1,98 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-display: 'Space Grotesk', ui-sans-serif, system-ui, sans-serif;
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+
+  --color-night-950: #060608;
+  --color-night-900: #0b0b0f;
+  --color-night-850: #101016;
+  --color-night-800: #16161e;
+  --color-night-700: #1e1e28;
+  --color-night-600: #2a2a36;
+  --color-night-400: #6b6b7a;
+  --color-night-300: #9a9aa8;
+  --color-night-100: #ececf1;
+
+  --color-ember-600: #e63b1f;
+  --color-ember-500: #ff4d2e;
+  --color-ember-400: #ff6f52;
+  --color-ember-300: #ffa38f;
+
+  --color-lime-500: #9ee83d;
+
+  --animate-glow: glow 2.6s ease-in-out infinite;
+  --animate-rise: rise 0.35s cubic-bezier(0.2, 0.9, 0.3, 1) both;
+  --animate-shake: shake 0.4s ease-in-out;
+
+  @keyframes glow {
+    0%,
+    100% {
+      box-shadow: 0 0 24px 0 rgba(255, 77, 46, 0.22);
+    }
+    50% {
+      box-shadow: 0 0 44px 6px rgba(255, 77, 46, 0.4);
+    }
+  }
+  @keyframes rise {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  @keyframes shake {
+    0%,
+    100% {
+      transform: translateX(0);
+    }
+    25% {
+      transform: translateX(-6px);
+    }
+    75% {
+      transform: translateX(6px);
+    }
+  }
+}
+
+html {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-night-950 font-sans text-night-100 antialiased;
+  background-image:
+    radial-gradient(1100px 500px at 50% -10%, rgba(255, 77, 46, 0.09), transparent 60%),
+    radial-gradient(900px 600px at 85% 110%, rgba(158, 232, 61, 0.05), transparent 55%);
+  min-height: 100dvh;
+}
+
+::selection {
+  background: rgba(255, 77, 46, 0.4);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-ember-400);
+  outline-offset: 2px;
+}
+
+/* kategori çipleri: kaydırma çubuğu gizli yatay şerit */
+.scrollbar-none {
+  scrollbar-width: none;
+}
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
